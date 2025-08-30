@@ -3,9 +3,9 @@
 *{
   padding:0;
   margin:0;
-  box-sizinf:border-box;
+  box-sizing:border-box;
 }
-/*}*
+/*
 body{
   background-color:gray;
   color:#fff;
@@ -13,8 +13,8 @@ body{
   justify-content:center;
   align-items:center;
   height:100vh;
-}*/
-
+}
+*/
 .box {
   width:80px;
   height:80px;
